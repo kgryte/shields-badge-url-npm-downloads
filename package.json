@@ -1,6 +1,6 @@
 {
   "name": "shields-badge-url-npm-downloads",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Creates Shields.io badge URLs for a package's NPM downloads.",
   "author": {
     "name": "Athan Reines",
