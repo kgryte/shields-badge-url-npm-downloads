@@ -1,0 +1,12 @@
+
+Usage: shields-npmd (<package> | --package=<name>) [options]
+
+Options:
+
+  -h,  --help                Print this message.
+  -V,  --version             Print the package version.
+       --package name        Package name.
+       --period period       Observation period. Default: 'monthly'.
+       --style style         Badge style. Default: 'flat'.
+       --format format       Badge format. Default: 'svg'.
+
